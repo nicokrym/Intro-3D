@@ -25,7 +25,7 @@ public class RANDOMCLONER : MonoBehaviour
 
     public void clonar()
     {
-        numero = Random.Range(min, max - 1);
+        numero = Random.Range(min, max + 1);
 
         if (numero == 0)
         {
