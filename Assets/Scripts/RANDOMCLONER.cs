@@ -8,8 +8,8 @@ public class RANDOMCLONER : MonoBehaviour
     public GameObject preFab1;
     public GameObject preFab2;
     public int numero;
-    int max = 0;
-    int min = 2;
+    int min = 0;
+    int max = 2;
 
     // Start is called before the first frame update
     void Start()

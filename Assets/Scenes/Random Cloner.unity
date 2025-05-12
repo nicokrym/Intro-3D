@@ -359,8 +359,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_MethodName: clonarCubo
+      - m_Target: {fileID: 773850598}
+        m_MethodName: clonar
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -434,6 +434,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5d07df1ba9cd2c438311a1f8f271a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  preFab0: {fileID: 6072246508067437406, guid: 9970bd6443e55ad4eb2f73f73b48dba5, type: 3}
+  preFab1: {fileID: 5825876172805158598, guid: 10aef3fbd76b71f43a10795b7cab8226, type: 3}
+  preFab2: {fileID: 5098360772533767145, guid: 8eacbf2292e64894799b511787d7d43c, type: 3}
+  numero: 0
 --- !u!4 &773850599
 Transform:
   m_ObjectHideFlags: 0
